@@ -1,2 +1,4 @@
 This is my first sample file 
-Making changes to both the file 
+Making changes to both the file
+Third change 
+
